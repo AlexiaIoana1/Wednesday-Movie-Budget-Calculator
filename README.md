@@ -1,5 +1,3 @@
-# proiectpoo
-
 Colcer Alexia Ioana - grupa 321AC
 
 Folderul "Source" contine fisierele .hpp si .cpp folosite in proiect
