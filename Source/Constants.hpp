@@ -1,0 +1,46 @@
+#pragma once
+
+#define EXTRA_PERSON_COUNT 132
+
+#define RON(x) ((unsigned long long)(x))
+
+#define BUS_COST	RON(5680)
+#define BUS_CAPACITY	50
+
+#define MONSTER_VAMPIRE		0
+#define MONSTER_WEREWOLF	1
+#define MONSTER_MERMAID		2
+#define MONSTER_SEER		3
+#define MONSTER_HUMAN		4
+
+#define MONSTER_VAMPIRE_COST	RON(230)
+#define MONSTER_WEREWOLF_COST	RON(555)
+#define MONSTER_MERMAID_COST	RON(345)
+#define MONSTER_SEER_COST		RON(157)
+#define MONSTER_HUMAN_COST		RON(55)
+
+#define DIET_EVERYTHING 	0
+#define DIET_VEGAN		    1
+#define DIET_FISH		    2
+
+#define DIET_EVERYTHING_COST	RON(40)
+#define DIET_VEGAN_COST			RON(33)
+#define DIET_FISH_COST			RON(46)
+
+#define HOTEL_ROOM_2_COST		RON(350)
+#define HOTEL_ROOM_3_COST		RON(420)
+
+#define WATER_COST			RON(6)
+#define WATER_UNIT			2000
+#define WATER_CONSUMPTION	1000
+
+#define COFFEE_COST			RON(30)
+#define COFFEE_UNIT			1000
+#define COFFEE_CONSUMPTION	500
+
+#define JUICE_COST			RON(8)
+#define JUICE_UNIT			2000
+#define JUICE_CONSUMPTION	800
+
+#define CASTLE_RENT_COST		RON(10000)
+#define CASTLE_REST_DISCOUNT	2

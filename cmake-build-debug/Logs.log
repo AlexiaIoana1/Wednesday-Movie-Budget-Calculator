@@ -1,0 +1,17 @@
+Reading entries from: InputDatabase.csv
+Successfully read 735 entries.
+
+Generating 132 extra enties.
+Successfully generated 132 entries.
+
+Writing 867 entries to: OutputDatabase.csv
+Entries written: 867
+
+Writing costs to CostsEN.csv
+Wrote: 5 entries.
+Writing costs to CostsRO.csv
+Wrote: 5 entries.
+Writing menus to FoodMenuEN.csv
+Wrote: 4 entries.
+Writing menus to FoodMenuRO.csv
+Wrote: 4 entries.
